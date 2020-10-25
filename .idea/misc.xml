@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/microservicecloud-provider-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8002/microservicecloud-provider-dept-8004/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8002/untitledmicroservicecloud-provider-dept-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/mircoservice-provider-dept-8003/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://maven.apache.org/POM/4.0.0" location="$PROJECT_DIR$" />
+    <resource url="http://maven.apache.org/xsd/maven-4.0.0.xsd" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
